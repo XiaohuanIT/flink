@@ -1,0 +1,7 @@
+wikiedits/BatchJob.class
+wikiedits/SocketTextStreamWordCount.class
+wikiedits/WordCount.class
+wikiedits/WordCount$LineSplitter.class
+wikiedits/StreamingJob.class
+wikiedits/SocketTextStreamWordCount$LineSplitter.class
+wikiedits/StreamingJob$1.class
